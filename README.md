@@ -13,8 +13,6 @@ Ce sont deux fonctions qui appliquent le traitement multi-hypothèses avec la po
 
 # De l'exercitation 
 
-Si l'utilisateur désire faire ou refaire un paramétrage des algorithmes,  il lui suffit de s'intéresser aux routines qui se trouvent dans le dossier *ParametrageDesAlgorithmes*.
-
 Dans le script ***TestsSimulation*** se trouve les analyses de l'influence de la modification du nombre de filtres Doppler. Son exécution prend 3 à 4 heures.
 
 Le script ***ParametrageIDONE*** permet à l'utilisateur de lancer une comparaison de différents paramétrages du IDONE. En fin de script, il y a des indications sur les paramètres de l'algorithme à choisir. 
