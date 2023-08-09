@@ -25,5 +25,5 @@ Si l'utilisateur désire faire ou refaire un paramétrage des algorithmes,  il l
 
 Le dossier *Optimisation* contient tous les codes des fonctions réalisant une optimisation du nombre d'hypothèses et/ou de leur placement. 
 Le dossier *Res* contient de nombreux résultats de simulations : comparaisons d'algorithmes, paramétrages, etc.
-Enfin les dossiers *bibliotheque,*Scenarios* et *RESULTATS* sont inhérent au TS. 
+Enfin les dossiers *bibliotheque*,*Scenarios* et *RESULTATS* sont inhérent au TS. 
 
