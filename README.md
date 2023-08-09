@@ -7,7 +7,7 @@ Ajouter tout au path : appeler simu_addpath()
 Faire les tests unitaires du dossier TestsUnitaires et vérifier que tout fonctionne correctement.
 
 # Simulation et Simulation_Placement 
-Ce sont deux fonctions qui appliquent le traitement multi-hypothèses. Elles ont besoin de connaître le scénario et la configuration du TS.
+Ce sont deux fonctions qui appliquent le traitement multi-hypothèses. Elles ont besoin de connaître le scénario et la configuration du TS. Elles nécessitent aussi un pré-chargement des IQs.
 ***Simulation*** réalise un placement régulier des hypothèses selon leur nombre tandis que ***Simulation_Placement*** prend comme argument des placements quelconques des hypothèses.
 
 
