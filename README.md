@@ -4,7 +4,7 @@
 Ajouter tout au path : appeler simu_addpath()
 
 ## Etape 2 : 
-Faire les tests unitaires du dossier TestsUnitaires et vérifier que tout fonctionne correctement. L'execution de ces tests est courte (moins de 2 minutes pour les plus longs).
+Faire les tests unitaires du dossier TestsUnitaires et vérifier que tout fonctionne correctement. L'exécution de ces tests est courte (moins de 2 minutes pour les plus longs).
 
 # Simulation et Simulation_Placement 
 Ce sont deux fonctions qui appliquent le traitement multi-hypothèses. Elles ont besoin de connaître le scénario et la configuration du TS. Elles nécessitent aussi un pré-chargement des IQs.
