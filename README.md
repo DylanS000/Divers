@@ -17,7 +17,9 @@ Si l'utilisateur désire faire ou refaire un paramétrage des algorithmes,  il l
 
 Dans le script ***TestsOptimisation*** se trouve des lancers des heuristiques et de la combinaison heuristique de descente/algorithme de placement. Pour choisir quel algorithme lancer, il suffit de se référer aux lignes 16 à 21 du script. Ce script peut être vu à la fois comme des tests unitaires et comme des exemples d'utilisation des différents algorithmes. 
 
-Le script ***ComparaisonAlgosDePlacement*** permet de comparer tous les algorithmes de placement dans la meilleure configuration de leur paramétrage.
+Le script ***ComparaisonAlgosDePlacement*** permet de comparer tous les algorithmes de placement dans la meilleure configuration de leur paramétrage et sur une même simulation 
+avec plus d'IQs. Des suggestions sur les valeurs que peuvent prendre les différents paramètres et/ou les valeurs par défaut à choisir sont également faites dans ce script.
+Pour choisir quel(s) algorithme(s) exécuter, il suffit de se rendre aux lignes 85-88.  
 
 
 
