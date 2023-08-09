@@ -19,7 +19,7 @@ Dans le script ***TestsOptimisation*** se trouve des lancers des heuristiques et
 
 Le script ***ComparaisonAlgosDePlacement*** permet de comparer tous les algorithmes de placement dans la meilleure configuration de leur paramétrage et sur une même simulation 
 avec plus d'IQs. Des suggestions sur les valeurs que peuvent prendre les différents paramètres et/ou les valeurs par défaut à choisir, sont également faites dans ce script.
-Pour choisir quel(s) algorithme(s) exécuter, il suffit de se rendre aux lignes 85-88. Attention cependant au temps d'exécution de ce script. Chacune des simulations peut prend environ 45 ou 90 heures ce qui porte l'execution du script entier avec toutes les simulations à environ une dizaine de jours.
+Pour choisir quel(s) algorithme(s) exécuter, il suffit de se rendre aux lignes 85-88. Attention cependant au temps d'exécution de ce script. Chacune des simulations peut prend environ 45 ou 90 heures ce qui porte l'exécution du script entier avec toutes les simulations à une dizaine de jours.
 
 
 
