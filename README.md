@@ -8,7 +8,7 @@ Faire les tests unitaires du dossier TestsUnitaires et vérifier que tout foncti
 
 # Simulation et Simulation_Placement 
 Ce sont deux fonctions qui appliquent le traitement multi-hypothèses. Elles ont besoin de connaître le scénario et la configuration du TS. Elles nécessitent aussi un pré-chargement des IQs.
-***Simulation*** réalise un placement régulier des hypothèses selon leur nombre tandis que ***Simulation_Placement*** prend comme argument des placements quelconques des hypothèses.
+***Simulation*** réalise un placement régulier des hypothèses selon leur nombre tandis que ***Simulation_Placement*** prend comme arguments des placements quelconques des hypothèses.
 
 
 # De l'exercitation 
