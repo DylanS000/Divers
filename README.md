@@ -11,9 +11,13 @@ Ce sont deux fonctions qui appliquent le traitement multi-hypothèses. Elles ont
 ***Simulation*** réalise un placement régulier des hypothèses selon leur nombre tandis que ***Simulation_Placement*** prend comme argument des placements quelconques des hypothèses.
 
 
-# Expérimentations :
+# De l'exercitation 
 
 Si l'utilisateur désire faire ou refaire un paramétrage des algorithmes,  il lui suffit de s'intéresser aux routines qui se trouvent dans le dossier *ParametrageDesAlgorithmes*.
+
+Dans le script ***TestsOptimisation*** se trouve des lancers des heuristiques et de la combinaison heuristique de descente/algorithme de placement. Pour choisir quel algorithme lancer, il suffit de se référer aux lignes 16 à 21 du script. Ce script peut être vu à la fois comme des tests unitaires et comme des exemples d'utilisation des différents algorithmes. 
+
+Le script ***ComparaisonAlgosDePlacement*** permet de comparer tous les algorithmes de placement dans la meilleure configuration de leur paramétrage.
 
 
 
