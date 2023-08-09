@@ -33,5 +33,5 @@ Le dossier *Optimisation* contient tous les codes des fonctions réalisant une o
 
 Le dossier *Res* contient de nombreux résultats de simulations : comparaisons d'algorithmes, paramétrages, etc.
 
-Enfin les dossiers *bibliotheque*,*Scenarios* et *RESULTATS* sont inhérent au TS. 
+Enfin les dossiers *bibliotheque*,*Scenarios* et *RESULTATS* sont inhérents au TS. 
 
