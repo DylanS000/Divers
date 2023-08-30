@@ -1,7 +1,10 @@
+# Prérequis 
+Le bon fonctionnement du code nécessite deux toolbox : la Statistics Toolbox et la Signal Processing Toolbox.
+
 # Prise en main du code
 
 ## Etape 1 :
-Ajouter tout au path : appeler simu_addpath()
+**Ajouter** tout au path : appeler simu_addpath()
 
 ## Etape 2 : 
 Vérifier que le code fonctionne correctement en lançant tous les tests unitaires du dossier *Unitests*. 
